@@ -1,1 +1,1 @@
-# DogCatClassifier
+# DogCatImageClassifier
